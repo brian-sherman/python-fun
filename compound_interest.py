@@ -1,3 +1,5 @@
+#All your base are belong to us!
+
 print("What is your starting balance?")
 
 starting_balance = float(input())
